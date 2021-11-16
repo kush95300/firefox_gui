@@ -42,7 +42,9 @@ Here every parameter are necessary.
 
 # License
 
-Free to use.
+ © Kaushal Soni
+ 
+ Licence Under the [MIT Licence](LICENSE)
 
 # Support & Contact
 <b>
